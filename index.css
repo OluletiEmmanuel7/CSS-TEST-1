@@ -37,12 +37,17 @@
     align-items: center;
     gap: 30px;
 }
-.
+
 /* .header-text{
     color: white;
     font-family: sans-serif;
     font-weight: bold;
 } */
+
+
+.sign-in:hover{
+    background-color: rgb(184, 112, 112);
+}
 
 .sign-button{
     
@@ -53,10 +58,6 @@
      font-weight: bold;
     font-family: sans-serif;
     font-size: 18px;
-}
-
-.sign-in:hover{
-    background-color: rgb(184, 112, 112);
 }
 
 .Become-dasher{
